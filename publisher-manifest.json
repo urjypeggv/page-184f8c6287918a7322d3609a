@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "8bdae9871e2135515bf19b64",
+  "owner": "urjypeggv",
+  "repo": "page-184f8c6287918a7322d3609a",
+  "title": "速鹰",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "184f8c6287918a7322d3609a",
+      "a": "速鹰",
+      "b": "Clash Mi客户端快速下载",
+      "entity": "速鹰",
+      "brand": "速鹰",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e9f6ed50dd9297b4c66663644164fd5e400f3aa15df5afb4929f601bc62226fc",
+      "content": {
+        "primary_entity": "速鹰",
+        "keyword1": "速鹰",
+        "keyword2": "Clash Mi客户端快速下载",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择 Clash Mi 客户端，Windows 与 macOS 桌面端、Android 与 iOS 移动端均有对应安装方式。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐并配置订阅，即可在常用设备上使用速鹰加速服务。",
+          "AI_CLOSING_TITLE": "开始使用速鹰",
+          "AI_DESCRIPTION": "，速鹰提供基础版、旗舰版和团队版三档套餐，月付与年付价格清晰。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备，包含 IPLC 专线游戏加速；团队版每月 1000GB 流量、支持 20 台设备。按设备安装 Clash Mi 客户端并导入订阅，即可对比套餐差异后选择适合的方案。",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路三个角度对比，快速找到适合日常使用的套餐。",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB 流量与 3 台设备，适合手机和电脑轻度使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版 300GB 流量与 5 台设备，含 IPLC 专线优化游戏延迟。",
+          "AI_FEATURE_TEXT_3": "团队版 1000GB 流量与 20 台设备，支持企业定制路由。",
+          "AI_FEATURE_TITLE_1": "入门流量",
+          "AI_FEATURE_TITLE_2": "进阶线路",
+          "AI_FEATURE_TITLE_3": "团队用量",
+          "AI_GUIDE_INTRO": "按三个步骤选择套餐、确认设备适配，并完成客户端订阅配置。",
+          "AI_GUIDE_TITLE": "使用速鹰三步",
+          "AI_HERO_INTRO": "速鹰为多设备用户提供不同流量档位的加速套餐，配合按设备选择的客户端可完成订阅配置。",
+          "AI_HERO_SUBTITLE": "多设备套餐与客户端选择",
+          "AI_HIGHLIGHT_1": "三档套餐月付年付可选",
+          "AI_HIGHLIGHT_2": "按设备选择对应客户端",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线节点",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版兼顾流量与线路，团队版面向多设备场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量与同时在线设备数，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐对应的设备数量与线路类型，确认符合日常使用需求。",
+          "AI_STEP_TEXT_3": "在设备上安装 Clash Mi 客户端，参照客户端文档导入订阅并完成配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "速鹰多设备加速",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "速鹰支持哪些设备？",
+          "AI_FAQ_ANSWER_1": "速鹰支持在 Windows、macOS、iOS 和 Android 等常见操作系统上使用，具体可通过客户端订阅方式配置。不同套餐支持的同时在线设备数量不同，基础版3台，旗舰版5台，团队版20台。",
+          "AI_FAQ_QUESTION_2": "如何导入订阅？",
+          "AI_FAQ_ANSWER_2": "购买套餐后，你会获得一个订阅链接。在所选客户端中粘贴该链接并更新订阅即可。具体步骤请参考客户端的订阅导入说明。",
+          "AI_FAQ_QUESTION_3": "套餐流量用完了怎么办？",
+          "AI_FAQ_ANSWER_3": "当月流量用尽后，可以等到下个计费周期自动重置，也可以随时升级到更高流量的套餐，升级后立即生效。",
+          "AI_FAQ_QUESTION_4": "可以中途更换套餐吗？",
+          "AI_FAQ_ANSWER_4": "支持更换套餐。你可以在账户内操作升级或降级，差价会按剩余天数折算，具体以购买时页面显示为准。",
+          "AI_FAQ_QUESTION_5": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_5": "年付和月付功能相同，但年付更优惠。例如基础版月付15元，年付仅需150元；旗舰版月付35元，年付350元；团队版月付85元，年付850元。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "bef723715a473b6161878925d9e3ea0628fbee3ab10ddb8b8e02f1ce8a4eea13",
+    "sitemap.xml": "f55da9bb5417e8fe09138fff0a9c93af604b16b7eb8faad397fbc3a1faf8771f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "13d90cfd264447be35cb42e22bd3af005dd28fd84d4bed7cb4bd1274be32acd3"
+}
